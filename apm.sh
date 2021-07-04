@@ -1,7 +1,7 @@
 #!/bin/bash
 
-apm_token=lx3gGZqAofpM0c4pRJ
-apm_server_url=https://observability-deployment-3c0630.apm.us-west1.gcp.cloud.es.io
+apm_token=xxxxxx
+apm_server_url=xxxxxx
 
 
 
